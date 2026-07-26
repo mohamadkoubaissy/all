@@ -1,0 +1,31 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxWkEL_Btm5yQOmMizhu6cmLJZ_hWuOlACsEAGgS0DNqfx-1vfg2v7Pyu&s=10 " group-title="قنوات ثقافية",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0MicKvSCR3zG2FU-RNPgk7f4B8mvvWyc2cg&s " group-title="قنوات ثقافية",حول العالم
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist/1.m3u8
+
+#EXTINF:-1 tvg-logo=" https://backend.roya-tv.com/imagechanger/Size02Q40R9134/images/programs/1263/jZX2zFhShCpQIW5.webp" group-title="قنوات ثقافية",العالم الكبير
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/big-world/playlist/3.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="قنوات ثقافية",
+
+
+#EXTINF:-1 tvg-logo=" " group-title="قنوات ثقافية",
+
+
+#EXTINF:-1 tvg-logo=" " group-title="قنوات ثقافية",
+
+
+#EXTINF:-1 tvg-logo=" " group-title="قنوات ثقافية",
+
+#EXTINF:-1 tvg-logo=" " group-title="قنوات ثقافية",

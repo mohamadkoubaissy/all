@@ -1,0 +1,92 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=" https://i.ytimg.com/vi/52EXPnOOwhc/maxresdefault.jpg" group-title="قنوات مسلسلات عربية",وطن ع وطر
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/watan-3a-watar/playlist/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://elnashrastorageaccount.blob.core.windows.net/elnashra/elnashra/elfann/images/extralarge/3232776_1725209202.jpg " group-title="قنوات مسلسلات عربية",الكبير قوي
+https://shd-amg-fast.edgenextcdn.net/tx013/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://caravannews.net/UploadCache/libfiles/0/7/800x600o/119.jpg " group-title="قنوات مسلسلات عربية",اللعبة
+https://shd-amg-fast.edgenextcdn.net/tx014/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://shahid.mbc.net/mediaObject/bfed61ca-ea1f-4f5b-8997-c3bfaa932b4e?height=auto&width=144&croppingPoint=&version=1&type=avif" group-title="قنوات مسلسلات عربية",كامل العدد
+https://shd-amg-fast.edgenextcdn.net/tx022/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBIhjWuZ3nmCc7FKZctoLrHNJifOpkLFxEoQ&s" group-title="قنوات مسلسلات عربية",مسرح مصر
+https://shd-amg-fast.edgenextcdn.net/tx009/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/QtlnZbq.png" group-title="قنوات مسلسلات عربية",باب الحارة
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://shahid.mbc.net/mediaObject/2021/Amr/movies/Poster_title_alhayba_5_v2/original/Poster_title_alhayba_5_v2.jpg" group-title="قنوات مسلسلات عربية",الهيبة
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alhayba/playlist/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8Rl2swWweKZNU_vZaPsX9y5UB6JUEPaMvQ&s " group-title="قنوات مسلسلات عربية",ايمن زيدان
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/ayman-zaydan/playlist/3.m3u8
+
+#EXTINF:-1 tvg-logo=" https://aljaras.com/wp-content/uploads/2024/12/9A26E87A-5BD3-4F75-A5EF-9C951EA3358A-630x630.jpg" group-title="قنوات مسلسلات عربية",نادين نجم
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/nadinenjaim/playlist/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UoNsneH9zvY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBnLqMcCcONPLTmMa_s2Nymj59HDA" group-title="قنوات مسلسلات عربية",مرايا
+https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/799fb041-289c-4709-b009-bca666425ec8?height=auto&width=144&croppingPoint=&version=1&type=avif " group-title="قنوات مسلسلات عربية",mbc bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/o2elx0u.png" group-title="قنوات مسلسلات عربية",MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png " group-title="قنوات مسلسلات عربية",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="قنوات مسلسلات عربية", mbc 4
+4/24f134f1cd63db9346439e96b86ca6ed/manifest/video/288p350kbps/video.m3u8
+
+
+
+#EXTINF:-1 tvg-logo=" https://media0070.elcinema.com/tvguide/1399_1.png" group-title="قنوات مسلسلات عربية",MBC Masr Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHo7Gtn.png " group-title="قنوات مسلسلات عربية",MBC Masr 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D0LxiPE.png " group-title="قنوات مسلسلات عربية",MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://backend.roya-tv.com/imagechanger/Size02Q40R9134/images/programs/1283/R0lCFDykPEpJbsX.webp" group-title="قنوات مسلسلات عربية",جلطه
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/jalta/playlist/1.m3u8
+
+#EXTINF:-1 tvg-logo=" https://yt3.googleusercontent.com/gQcjz4Ucp8_yo4RPkCMxLvbNZZcVemB7rNe0ZYph6hG-DoUI-N4v4hZSAw6GVceIw2B45yJK5g=s900-c-k-c0x00ffffff-no-rj" group-title="قنوات مسلسلات عربية",althania
+https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiRihT_O0C-IAl_c6Hf1i5iyFnVUpZ3ltBmw&s " group-title="قنوات مسلسلات عربية",Roya Drama
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/3.m3u8
+
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoJB4_ww0IEFi-PfU8MYKWyCmNsjPbt48S8Q&s" group-title="قنوات مسلسلات عربية",مسرحيات
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-6zpszOBSeZx2boqO9xBUTx7DxuitVPDclOyANO_leso8oLIiYrgFCFI&s=10 " group-title="قنوات مسلسلات عربية",حارة القبه
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/haret-alqubbeh/playlist/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuTyh-GTOg6A00iFEZ3OlUQzMJo0cxjmju5A&s " group-title="قنوات مسلسلات عربية",Roya Comedy
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/3.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/dd63048e-0b3b-48a2-b55c-77619b4d5cf6?width=144&version=1&type=avif&q=80 " group-title="قنوات مسلسلات عربية",mbc+ drama
+https://shd-gcp-live-pfoc.shahid.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/manifest/video/576p1200kbps/video.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="قنوات مسلسلات عربية",
+
+
+#EXTINF:-1 tvg-logo=" " group-title="قنوات مسلسلات عربية",

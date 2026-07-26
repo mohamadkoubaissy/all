@@ -1,0 +1,58 @@
+#EXTM3U
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/ps4Gtj0.png" group-title="قنوات اسلامية",الصراط 
+https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/4WKQppG.png" group-title="قنوات اسلامية",الايمان
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://alomma.tv/wp-content/uploads/2024/10/logo.jpg " group-title="قنوات اسلامية",الأئمة 
+https://alaimma.tv/live/index.m3u8
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/JyWjfIB.png" group-title="قنوات اسلامية",النعيم
+http://37.238.136.61/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png" group-title="قنوات اسلامية",العباسيه 
+https://stream.alabbassia.com/live/alabbassia/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lqVwrAF.png " group-title="قنوات اسلامية",القران 
+https://ktvlive.online/stream/hls/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmgaPSi.png " group-title="قنوات اسلامية",EmanTv
+https://avr.host247.net/live/emantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IXVSPdJ.png " group-title="قنوات اسلامية",الامام الحسين 2
+http://ar.imamhossaintv.com/live/ih2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lqhU0PY.png " group-title="قنوات اسلامية",الامام الحسين 6
+http://live.imamhossaintv.com/live/ih6.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs40kIA2SY0goTcgy5STAWbMqElo2tc9u1rh3MpUrNrf7vvcxxA3o43wB4&s=10 " group-title="قنوات اسلامية",كربلاء الثقافية
+https://ktvlive.online/stream/hls/ch3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LsYYkUI.png " group-title="قنوات اسلامية",مرجعيات
+https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo=" " group-title="قنوات اسلامية",
+
+
+#EXTINF:-1 tvg-logo=" " group-title="قنوات اسلامية",
+
+
+#EXTINF:-1 tvg-logo=" " group-title="قنوات اسلامية",
+
+
+#EXTINF:-1 tvg-logo=" " group-title="قنوات اسلامية",
+
+
+#EXTINF:-1 tvg-logo=" " group-title="قنوات اسلامية",
+
+
+
+

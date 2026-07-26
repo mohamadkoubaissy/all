@@ -1,0 +1,40 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/sOQLV7L.png" group-title="قنوات الأخبار",المنار
+https://edge.fastpublish.me/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GtQOKeW.png " group-title="قنوات الأخبار",الميادين  
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMUjPXx.png " group-title="قنوات الأخبار", الاتحاد
+http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/toxFMeY.png " group-title="قنوات الأخبار",OTV 
+https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png " group-title="قنوات الأخبار", MTV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaqEpwe.png " group-title="قنوات الأخبار",Future   
+https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5VPYxJi.png " group-title="قنوات الأخبار",TL
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png " group-title="قنوات الأخبار", Lana 
+https://cdn.streamlane.tv/hls/ltv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5ZUXwky96_P0mBAtWT8jeFFyqhv-dtshhSV5Hlifymw&s " group-title="قنوات الأخبار", الحدث 
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=144&croppingPoint=&version=1&type=avif " group-title="قنوات أفلام أجنبية",العربية
+https://shd-gcp-live-pfoc.shahid.net/live/bitmovin-alarabiya-business/6736e2ee3a7586c7763d7c7af867021f/manifest/video/288p350kbps/video.m3u8
+
+
+#EXTINF:-1 tvg-logo=" https://i.imgur.com/7bRVpnu.png" group-title="قنوات الأخبار", الجزيرة 1
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJmi6G6.png " group-title="قنوات الأخبار",الجزيرة 2
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+

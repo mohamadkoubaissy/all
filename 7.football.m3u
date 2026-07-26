@@ -1,0 +1,18 @@
+#EXTM3U
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bTKf4V/bein.png" group-title="قنوات الرياضة",beIN Sports Haber
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bTKf4V/bein.png" group-title="قنوات الرياضة",beIN Sports USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bTKf4V/bein.png" group-title="قنوات الرياضة",beIN SPORTS XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bTKf4V/bein.png" group-title="قنوات الرياضة",beIN Sports XTRA en Espanol
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
