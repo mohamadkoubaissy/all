@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:2401 group-title="باب الحارة الجزء التاسع" group-logo="رابط_صورة_المجموعة" tvg-logo="https://i.ytimg.com/vi/Qho1opM1k3c/mqdefault.jpg",باب الحارة الجزء التاسع ـ الحلقة 1
+https://edge.fastpublish.me/live/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/sOQLV7L.png" group-title="قنوات الأخبار",المنار
 https://edge.fastpublish.me/live/index.m3u8
