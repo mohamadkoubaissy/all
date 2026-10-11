@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOQLV7L.png" group-logo="https://i.imgur.com/GtQOKeW.png" group-title="قنوات الأخبار",المنار
-https://edge.fastpublish.me/live/index.m3u8
+
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/sOQLV7L.png" group-title="قنوات الأخبار",المنار
 https://edge.fastpublish.me/live/index.m3u8
