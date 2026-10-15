@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/sOQLV7L.png" group-title="قنوات الأخبار",افلام
-	   https://shd-amg-fast.edgenextcdn.net/tx001/1080p-d/index.m3u8
-
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/sOQLV7L.png" group-title="قنوات الأخبار",المنار
 https://edge.fastpublish.me/live/index.m3u8
 
